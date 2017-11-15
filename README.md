@@ -1,12 +1,12 @@
 1) Скриншот построенной топологии.
 
 
-![img](https://github.com/kio38/lab2/1.png)
+![img](https://github.com/kio38/lab2/blob/master/1.png)
 
 2) 
 Протокол ICMP на сетевом уровне модели OSI.
 Event List tracert:
-![img](https://github.com/kio38/lab2/3.png)
+![img](https://github.com/kio38/lab2/blob/master/3.png)
 
 3)
 Протокол DNS на прикладном уровне модели OSI.
@@ -14,9 +14,9 @@ Event List tracert:
 
 Результат nslookup:
 
-![img](https://github.com/kio38/lab2/6.png)
+![img](https://github.com/kio38/lab2/blob/master/6.png)
 
 EventList:
 
-![img](https://github.com/kio38/lab2/4.png)
+![img](https://github.com/kio38/lab2/blob/master/4.png)
 
